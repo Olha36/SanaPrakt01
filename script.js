@@ -1,2 +1,3 @@
 console.log('Task1');
-alert('Sana Commerce Software Development Bootcamp');
+alert('Olha Kucheruk');
+console.log('Task 2');
